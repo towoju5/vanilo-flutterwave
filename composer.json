@@ -1,5 +1,5 @@
 {
-    "name": "vanilo/flutterwave",
+    "name": "towoju5/vanilo-flutterwave",
     "description": "Flutterwave Payment Gateway Support for Vanilo (Laravel)",
     "type": "library",
     "minimum-stability": "dev",
